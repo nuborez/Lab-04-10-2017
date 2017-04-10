@@ -1,0 +1,5 @@
+Input the amount into the “source currency” text field
+Select the source currency from drop down box
+Select the target currency from the lower drop down box
+Click calculate
+See the actual result in the  result area
